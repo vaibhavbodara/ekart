@@ -1,0 +1,176 @@
+{
+    "user": [
+        {
+            "name": "vaibhav patel",
+            "mobNumber": "9106957474",
+            "age": 22,
+            "dob": "16-04-2002",
+            "email": "v@gmail.com",
+            "password": "12345",
+            "address": {
+                "addLine1": "District center",
+                "addLine2": "xyz",
+                "city": "Ahmedabad",
+                "state": "Gujarat",
+                "zipCode": "364750"
+            },
+            "language": [
+                "English",
+                "Hindi",
+                "Gujarati"
+            ],
+            "gender": "male",
+            "aboutYou": "I am a Programmer...",
+            "uploadPhoto": "vaibhav.png",
+            "agreetc": true,
+            "role": "admin",
+            "id": 1
+        }
+    ],
+    "products": [
+        {
+            "id": 1,
+            "name": "polymer door setup",
+            "uploadPhoto": "https://img3.exportersindia.com/product_images/bc-full/2023/6/11256257/ivory-wpc-door-frame-1686647753-6753206.jpeg",
+            "productDesc": "Beyond a list of product details or features, descriptions tell a story about what makes a product special and persuade customers to make a purchase.",
+            "mrp": "1000",
+            "dp": "300",
+            "status": "publish"
+        },
+        {
+            "id": 2,
+            "name": "apple-15 pro",
+            "uploadPhoto": "https://m.media-amazon.com/images/I/81SigpJN1KL._AC_UF1000,1000_QL80_.jpg",
+            "productDesc": "Beyond a list of product details or features, descriptions tell a story about what makes a product special and persuade customers to make a purchase.",
+            "mrp": "1,50,000",
+            "dp": "16000",
+            "status": "draft"
+        },
+        {
+            "id": 3,
+            "name": "pillow covers",
+            "uploadPhoto": "https://m.media-amazon.com/images/I/91xMxVUD4+L.jpg",
+            "productDesc": "Beyond a list of product details or features, descriptions tell a story about what makes a product special and persuade customers to make a purchase.",
+            "mrp": "1500",
+            "dp": "400",
+            "status": "publish"
+        },
+        {
+            "id": 4,
+            "name": "S21-FE cover",
+            "uploadPhoto": "https://rukminim2.flixcart.com/image/850/1000/xif0q/cases-covers/3/j/v/-original-imagsrq4af3hchzk.jpeg?q=90&crop=false",
+            "productDesc": "Beyond a list of product details or features, descriptions tell a story about what makes a product special and persuade customers to make a purchase.",
+            "mrp": "800",
+            "dp": "200",
+            "status": "draft"
+        },
+        {
+            "id": 5,
+            "name": "MackBook pro",
+            "uploadPhoto": "https://images-cdn.ubuy.co.in/650188aee584193d8350a66b-2022-apple-macbook-pro-laptop-with-m2.jpg",
+            "productDesc": "Beyond a list of product details or features, descriptions tell a story about what makes a product special and persuade customers to make a purchase.",
+            "mrp": "2,25,900",
+            "dp": "25,900",
+            "status": "draft"
+        },
+        {
+            "id": 6,
+            "name": "Atlas bottle",
+            "uploadPhoto": "https://www.bhokals.com/cdn/shop/products/3-37_0809e434-8ffb-4db6-84af-e600d5ec7928.png?v=1654877217&width=1445",
+            "productDesc": "Beyond a list of product details or features, descriptions tell a story about what makes a product special and persuade customers to make a purchase.",
+            "mrp": "1500",
+            "dp": "500",
+            "status": "publish"
+        },
+        {
+            "id": 7,
+            "name": "Fossil",
+            "uploadPhoto": "https://m.media-amazon.com/images/I/71R8I7cGKPL._AC_UY1000_.jpg",
+            "productDesc": "Beyond a list of product details or features, descriptions tell a story about what makes a product special and persuade customers to make a purchase.",
+            "mrp": "15000",
+            "dp": "2000",
+            "status": "inactive"
+        },
+        {
+            "id": 8,
+            "name": "LLOYD AC",
+            "uploadPhoto": "https://5.imimg.com/data5/SELLER/Default/2023/4/300177336/FH/NT/NA/186538006/zoom88.png",
+            "productDesc": "Beyond a list of product details or features, descriptions tell a story about what makes a product special and persuade customers to make a purchase.",
+            "mrp": "37,990",
+            "dp": "3,990",
+            "status": "publish"
+        },
+        {
+            "id": 9,
+            "name": "WoodLand Shoes",
+            "uploadPhoto": "https://assets.woodlandworldwide.app/compressed/images/FGC0L80R7421Z/CAMEL/FGC0L80R7421Z_010_0.jpg",
+            "productDesc": "Beyond a list of product details or features, descriptions tell a story about what makes a product special and persuade customers to make a purchase.",
+            "mrp": "2500",
+            "dp": "300",
+            "status": "inactive"
+        },
+        {
+            "id": 10,
+            "name": "WildStone Perfum",
+            "uploadPhoto": "https://m.media-amazon.com/images/I/61TYei9ZnlL.jpg",
+            "productDesc": "Beyond a list of product details or features, descriptions tell a story about what makes a product special and persuade customers to make a purchase.",
+            "mrp": "600",
+            "dp": "150",
+            "status": "draft"
+        },
+        {
+            "id": 11,
+            "name": "Guuci belt",
+            "uploadPhoto": "https://dillibazar.co.in/wp-content/uploads/Gucci-Belt-Men.jpeg",
+            "productDesc": "Beyond a list of product details or features, descriptions tell a story about what makes a product special and persuade customers to make a purchase.",
+            "mrp": "1600",
+            "dp": "400",
+            "status": "publish"
+        },
+        {
+            "id": 12,
+            "name": "Plywood Sheet",
+            "uploadPhoto": "https://rukminim2.flixcart.com/image/750/900/kyyqpow0/wood-veneer/e/g/o/15-24-6-pieces-birch-plywood-3mm-thick-6-x-6-inch-sheet-6-original-imagb2y7zc9sphcy.jpeg?q=20&crop=false",
+            "productDesc": "Beyond a list of product details or features, descriptions tell a story about what makes a product special and persuade customers to make a purchase.",
+            "mrp": "2500",
+            "dp": "300",
+            "status": "publish"
+        },
+        {
+            "id": 13,
+            "name": "Samsung Tv",
+            "uploadPhoto": "https://rukminim2.flixcart.com/image/850/1000/xif0q/television/x/8/a/-original-imagttjpuyzsbzud.jpeg?q=90&crop=false",
+            "productDesc": "Beyond a list of product details or features, descriptions tell a story about what makes a product special and persuade customers to make a purchase.",
+            "mrp": "1,30,000",
+            "dp": "10,000",
+            "status": "draft"
+        }
+    ],
+
+    "orders": [
+        {
+            "id": 1,
+            "userId": 3,
+            "sellerId": 2,
+            "product": {
+                "id": 1,
+                "name": "polyster door Curtain",
+                "uploadPhoto": "https://img3.exportersindia.com/product_images/bc-full/2023/6/11256257/ivory-wpc-door-frame-1686647753-6753206.jpeg",
+                "productDesc": "Beyond a list of product details or features, descriptions tell a story about what makes a product special and persuade customers to make a purchase.",
+                "mrp": "1000",
+                "dp": "300",
+                "status": "publish"
+            },
+            "deliveryAddress":{
+                "id":0,
+                "addLine1":"pramukh nagar",
+                "addLine2":"shastri nagar",
+                "city":"Ahmedabad",
+                "state":"Gujarat...",
+                "zipCode":"380081"
+            },
+            "contact":"91069 57474",
+            "dateTime":"16/04/2024"
+        }
+    ]
+}

@@ -1,0 +1,54 @@
+** module wise Component and Services etc
+1.admin:- admin-dashboard,admin-login,user-crud,services->admin
+
+2.app->contact-us
+3.core->interceptors->http , core->service->api
+4.app->customer
+5.app->home
+6.app->product
+7.app->shared
+8.app->user-profile
+
+9. Buyer section in customer module
+ app->customer->buyer->buyer-dashboard
+ app->customer->buyer->checkout
+ app->customer->seller->seller-dashboard
+ app->customer->signin-signup
+ app->customer->services->customer
+
+10. Shared module directive,Component and Services 
+   *Component
+   shared->directives->number-only
+   shared/layouts/footer
+   shared/layouts/header
+   shared/layouts/page-not-found
+
+   *Services
+    shared/services/auth-guard
+    shared/services/login-signup
+    shared/services/product
+    shared/services/user
+
+11. add bootstrap in index.html file and install manually
+
+12. create db.json api file 
+
+13. Create routing and child routes in app.routes.ts
+
+14.npm install @ngx-translate/core --save , npm install @ngx-translate/http-loader --save
+
+15. seller wise product , admin wise product
+
+16. signup page details : name , mobNumber,age,dob,email,password,addLine1,addLine2,city,state,zipCode,language,gender,aboutYou,uploadPhoto,role,agreetc
+
+17. Setup Database for Products and Orders : 1-Products -id,name,uploadPhoto,productDesc,mrp,dp,status
+
+18. User Service using HttpClient : 
+
+19. Implements Models(core->Model->object-model.ts) : A model in Angular represents the data structure and business logic of an application. It encapsulates the properties and methods related to a specific entity or concept. 
+                                                      1-Object-model.ts
+
+20. Buyer and Seller Signup page design : 
+
+21. Buyer and Seller Signup page design : Template Driven and Reactive From In this page
+
